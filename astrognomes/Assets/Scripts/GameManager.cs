@@ -5,7 +5,7 @@ public class GameManager : MonoBehaviour
 {
     public double money;
 
-    [Header("Click Upgrade")]
+    [Header("Gnomes Owned")]
     public int clickValue = 1;
     public int clickLevel = 1;
     public int clickCost = 10;

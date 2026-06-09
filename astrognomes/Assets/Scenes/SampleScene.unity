@@ -562,7 +562,7 @@ MonoBehaviour:
   autoOwned: 0
   autoCost: 50
   luckyChance: 0.1
-  luckyBonus: 10
+  luckyBonus: 20
   luckyLevel: 1
   luckyCost: 100
   moneyText: {fileID: 2062391681}
